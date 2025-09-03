@@ -81,10 +81,9 @@ I'm always excited to work on new projects and help businesses grow through tech
 ### 📫 **Get in Touch**
 
 - 💼 **Available for:** Freelance projects, full-time opportunities, consulting
-- 📧 **Email:** [Add your email here]
-- 💬 **LinkedIn:** [Add your LinkedIn profile]
-- 🐦 **Twitter:** [Add your Twitter handle]
-- 🌐 **Portfolio:** [Add your portfolio website]
+- 📧 **Email:** rnilash2@gmail.com
+- 💬 **LinkedIn:** https://www.linkedin.com/in/ravindu-nilash-a29869270/
+- 🌐 **Portfolio:** 
 
 ---
 
