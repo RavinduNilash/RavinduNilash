@@ -11,12 +11,12 @@ I help businesses and startups build robust software solutions that drive growth
 
 **Frontend Development:**
 ```
-JavaScript | TypeScript | React | Vue.js | HTML5 | CSS3 | Tailwind CSS
+JavaScript | TypeScript | React | Vue.js | HTML5 | CSS3 | Tailwind CSS | Next.js
 ```
 
 **Backend Development:**
 ```
-Node.js | Python | Express.js | FastAPI | RESTful APIs | GraphQL
+Node.js | Python | Express.js | FastAPI | RESTful APIs | Firebase | Superbase
 ```
 
 **Database & Cloud:**
@@ -26,7 +26,7 @@ MongoDB | PostgreSQL | MySQL | AWS | Firebase | Docker
 
 **Mobile Development:**
 ```
-React Native | Flutter
+React Native | Flutter | FlutterFlow
 ```
 
 **Tools & DevOps:**
@@ -63,7 +63,6 @@ Git | GitHub Actions | Docker | Linux | VS Code
 
 ![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavinduNilash&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduNilash&layout=compact&theme=radical)
 
 </div>
 
